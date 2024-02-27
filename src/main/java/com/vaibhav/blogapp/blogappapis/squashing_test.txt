@@ -4,3 +4,4 @@ In the context of version control systems like Git, "squashing" commits refers t
 Certainly! Squashing commits in Git can be helpful for cleaning up your commit history, especially before merging changes into a main branch or creating a pull request.
 Editing for Commit 4 to do squashing.
 Editing for Commit 5 to do squashing.
+Editing for Commit 6 to do squashing.
