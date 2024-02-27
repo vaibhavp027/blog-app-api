@@ -1,1 +1,6 @@
 i am testing squashing to learn.
+In the context of version control systems like Git, "squashing" commits refers to combining multiple commits into a single commit. This can be useful for cleaning up a commit history before merging changes into a main branch, making the history more readable and concise.
+
+Certainly! Squashing commits in Git can be helpful for cleaning up your commit history, especially before merging changes into a main branch or creating a pull request.
+Editing for Commit 4 to do squashing.
+Editing for Commit 5 to do squashing.
